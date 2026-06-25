@@ -55,8 +55,17 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/devkhushii/DBMS/tree/master/0146-lru-cache) |
+| [0225-implement-stack-using-queues](https://github.com/devkhushii/DBMS/tree/master/0225-implement-stack-using-queues) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/devkhushii/DBMS/tree/master/0146-lru-cache) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/devkhushii/DBMS/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/devkhushii/DBMS/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
