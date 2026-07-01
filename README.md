@@ -32,6 +32,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devkhushii/DBMS/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/devkhushii/DBMS/tree/master/0049-group-anagrams) |
+| [0239-sliding-window-maximum](https://github.com/devkhushii/DBMS/tree/master/0239-sliding-window-maximum) |
 | [0560-subarray-sum-equals-k](https://github.com/devkhushii/DBMS/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -73,12 +74,22 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/devkhushii/DBMS/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/devkhushii/DBMS/tree/master/0239-sliding-window-maximum) |
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/devkhushii/DBMS/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/devkhushii/DBMS/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/devkhushii/DBMS/tree/master/0647-palindromic-substrings) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/devkhushii/DBMS/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/devkhushii/DBMS/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
