@@ -33,6 +33,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/devkhushii/DBMS/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/devkhushii/DBMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/devkhushii/DBMS/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/devkhushii/DBMS/tree/master/0033-search-in-rotated-sorted-array) |
@@ -44,6 +45,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/devkhushii/DBMS/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/devkhushii/DBMS/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/devkhushii/DBMS/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/devkhushii/DBMS/tree/master/0424-longest-repeating-character-replacement) |
