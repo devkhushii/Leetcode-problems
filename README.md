@@ -18,6 +18,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/devkhushii/DBMS/tree/master/0018-4sum) |
 | [0344-reverse-string](https://github.com/devkhushii/DBMS/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/devkhushii/DBMS/tree/master/0647-palindromic-substrings) |
 ## String
@@ -36,6 +37,7 @@
 | [0001-two-sum](https://github.com/devkhushii/DBMS/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/devkhushii/DBMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/devkhushii/DBMS/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/devkhushii/DBMS/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/devkhushii/DBMS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/devkhushii/DBMS/tree/master/0049-group-anagrams) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devkhushii/DBMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -53,6 +55,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/devkhushii/DBMS/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/devkhushii/DBMS/tree/master/0049-group-anagrams) |
 ## Trie
 |  |
