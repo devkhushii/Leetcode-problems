@@ -126,15 +126,18 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/devkhushii/DBMS/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/devkhushii/DBMS/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/devkhushii/DBMS/tree/master/0102-binary-tree-level-order-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/devkhushii/DBMS/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/devkhushii/DBMS/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/devkhushii/DBMS/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/devkhushii/DBMS/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/devkhushii/DBMS/tree/master/0102-binary-tree-level-order-traversal) |
 ## Breadth-First Search
 |  |
@@ -144,4 +147,8 @@
 |  |
 | ------- |
 | [2439-minimize-maximum-of-array](https://github.com/devkhushii/DBMS/tree/master/2439-minimize-maximum-of-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/devkhushii/DBMS/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
