@@ -151,4 +151,16 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/devkhushii/DBMS/tree/master/0098-validate-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/devkhushii/DBMS/tree/master/0089-gray-code) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/devkhushii/DBMS/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/devkhushii/DBMS/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
