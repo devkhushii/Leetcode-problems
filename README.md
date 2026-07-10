@@ -27,6 +27,7 @@
 | [0006-zigzag-conversion](https://github.com/devkhushii/DBMS/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/devkhushii/DBMS/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/devkhushii/DBMS/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/devkhushii/DBMS/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/devkhushii/DBMS/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/devkhushii/DBMS/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/devkhushii/DBMS/tree/master/0424-longest-repeating-character-replacement) |
