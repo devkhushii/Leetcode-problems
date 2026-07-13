@@ -48,6 +48,7 @@
 | [0239-sliding-window-maximum](https://github.com/devkhushii/DBMS/tree/master/0239-sliding-window-maximum) |
 | [0560-subarray-sum-equals-k](https://github.com/devkhushii/DBMS/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/devkhushii/DBMS/tree/master/0704-binary-search) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/devkhushii/DBMS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2439-minimize-maximum-of-array](https://github.com/devkhushii/DBMS/tree/master/2439-minimize-maximum-of-array) |
 ## Hash Table
 |  |
