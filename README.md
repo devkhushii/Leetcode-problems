@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/devkhushii/DBMS/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/devkhushii/DBMS/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/devkhushii/DBMS/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/devkhushii/DBMS/tree/master/0647-palindromic-substrings) |
 ## String
@@ -40,6 +41,7 @@
 | [0014-longest-common-prefix](https://github.com/devkhushii/DBMS/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/devkhushii/DBMS/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/devkhushii/DBMS/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/devkhushii/DBMS/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/devkhushii/DBMS/tree/master/0049-group-anagrams) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devkhushii/DBMS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devkhushii/DBMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -86,6 +88,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/devkhushii/DBMS/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/devkhushii/DBMS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/devkhushii/DBMS/tree/master/0225-implement-stack-using-queues) |
 ## Queue
@@ -101,6 +104,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/devkhushii/DBMS/tree/master/0042-trapping-rain-water) |
 | [0647-palindromic-substrings](https://github.com/devkhushii/DBMS/tree/master/0647-palindromic-substrings) |
 | [2439-minimize-maximum-of-array](https://github.com/devkhushii/DBMS/tree/master/2439-minimize-maximum-of-array) |
 ## Heap (Priority Queue)
@@ -169,4 +173,8 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/devkhushii/DBMS/tree/master/0025-reverse-nodes-in-k-group) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/devkhushii/DBMS/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
