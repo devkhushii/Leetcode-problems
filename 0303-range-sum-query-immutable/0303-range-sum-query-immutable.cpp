@@ -1,22 +1,18 @@
 class NumArray {
 public:
-    vector<int> nums;
+    vector<int> pre;
     NumArray(vector<int>& nums) {
-          this->nums = nums;
+        for(int i=1;i<nums.size();i++){
+            nums[i] = nums[i] + nums[i-1];
+        }
+        pre =nums;
     }
     
     int sumRange(int left, int right) {
-        int sum=0;
-        if (left>=nums.size() && right>=nums.size()){
-                 return 0;
+        if(left == 0){
+            return pre[right] ;
         }
-        for(int i=left;i<=right;i++){
-            sum+=nums[i];
-
-        }
-        
-        return sum;
-
+        return (pre[right] - pre[left-1]);
     }
 };
 
