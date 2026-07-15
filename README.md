@@ -43,6 +43,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/devkhushii/DBMS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/devkhushii/DBMS/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/devkhushii/DBMS/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/devkhushii/DBMS/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devkhushii/DBMS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devkhushii/DBMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/devkhushii/DBMS/tree/master/0239-sliding-window-maximum) |
@@ -196,6 +197,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/devkhushii/DBMS/tree/master/0054-spiral-matrix) |
 | [1603-design-parking-system](https://github.com/devkhushii/DBMS/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
@@ -210,4 +212,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/devkhushii/DBMS/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/devkhushii/DBMS/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
