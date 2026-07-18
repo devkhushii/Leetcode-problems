@@ -59,6 +59,7 @@
 | [0724-find-pivot-index](https://github.com/devkhushii/DBMS/tree/master/0724-find-pivot-index) |
 | [1109-corporate-flight-bookings](https://github.com/devkhushii/DBMS/tree/master/1109-corporate-flight-bookings) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devkhushii/DBMS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/devkhushii/DBMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2439-minimize-maximum-of-array](https://github.com/devkhushii/DBMS/tree/master/2439-minimize-maximum-of-array) |
 ## Hash Table
 |  |
@@ -190,6 +191,7 @@
 | [0066-plus-one](https://github.com/devkhushii/DBMS/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/devkhushii/DBMS/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/devkhushii/DBMS/tree/master/0089-gray-code) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/devkhushii/DBMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -233,4 +235,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/devkhushii/DBMS/tree/master/0070-climbing-stairs) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/devkhushii/DBMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
