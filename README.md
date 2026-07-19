@@ -20,6 +20,7 @@
 | ------- |
 | [0018-4sum](https://github.com/devkhushii/DBMS/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/devkhushii/DBMS/tree/master/0042-trapping-rain-water) |
+| [0160-intersection-of-two-linked-lists](https://github.com/devkhushii/DBMS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/devkhushii/DBMS/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/devkhushii/DBMS/tree/master/0647-palindromic-substrings) |
 ## String
@@ -68,6 +69,7 @@
 | [0001-two-sum](https://github.com/devkhushii/DBMS/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/devkhushii/DBMS/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/devkhushii/DBMS/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/devkhushii/DBMS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/devkhushii/DBMS/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/devkhushii/DBMS/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/devkhushii/DBMS/tree/master/0347-top-k-frequent-elements) |
@@ -100,6 +102,7 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/devkhushii/DBMS/tree/master/0025-reverse-nodes-in-k-group) |
 | [0146-lru-cache](https://github.com/devkhushii/DBMS/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/devkhushii/DBMS/tree/master/0160-intersection-of-two-linked-lists) |
 ## Design
 |  |
 | ------- |
