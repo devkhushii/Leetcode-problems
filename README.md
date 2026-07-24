@@ -34,6 +34,7 @@
 | [0032-longest-valid-parentheses](https://github.com/devkhushii/DBMS/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/devkhushii/DBMS/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/devkhushii/DBMS/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/devkhushii/DBMS/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/devkhushii/DBMS/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/devkhushii/DBMS/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/devkhushii/DBMS/tree/master/0647-palindromic-substrings) |
@@ -85,6 +86,7 @@
 | [0146-lru-cache](https://github.com/devkhushii/DBMS/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devkhushii/DBMS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/devkhushii/DBMS/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/devkhushii/DBMS/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/devkhushii/DBMS/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/devkhushii/DBMS/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/devkhushii/DBMS/tree/master/0347-top-k-frequent-elements) |
