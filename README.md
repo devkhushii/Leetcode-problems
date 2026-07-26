@@ -65,6 +65,7 @@
 | [0414-third-maximum-number](https://github.com/devkhushii/DBMS/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devkhushii/DBMS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devkhushii/DBMS/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/devkhushii/DBMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/devkhushii/DBMS/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/devkhushii/DBMS/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/devkhushii/DBMS/tree/master/0724-find-pivot-index) |
@@ -101,6 +102,7 @@
 | [0229-majority-element-ii](https://github.com/devkhushii/DBMS/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/devkhushii/DBMS/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/devkhushii/DBMS/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/devkhushii/DBMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/devkhushii/DBMS/tree/master/3536-maximum-product-of-two-digits) |
 ## Trie
 |  |
@@ -229,6 +231,7 @@
 | [0070-climbing-stairs](https://github.com/devkhushii/DBMS/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/devkhushii/DBMS/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/devkhushii/DBMS/tree/master/0202-happy-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/devkhushii/DBMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devkhushii/DBMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/devkhushii/DBMS/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/devkhushii/DBMS/tree/master/3514-number-of-unique-xor-triplets-ii) |
