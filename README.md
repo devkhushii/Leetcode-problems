@@ -59,6 +59,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devkhushii/DBMS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devkhushii/DBMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/devkhushii/DBMS/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/devkhushii/DBMS/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/devkhushii/DBMS/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/devkhushii/DBMS/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/devkhushii/DBMS/tree/master/0303-range-sum-query-immutable) |
