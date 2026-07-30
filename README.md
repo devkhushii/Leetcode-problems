@@ -20,6 +20,7 @@
 | ------- |
 | [0018-4sum](https://github.com/devkhushii/DBMS/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/devkhushii/DBMS/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/devkhushii/DBMS/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devkhushii/DBMS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/devkhushii/DBMS/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/devkhushii/DBMS/tree/master/0234-palindrome-linked-list) |
@@ -60,6 +61,7 @@
 | [0053-maximum-subarray](https://github.com/devkhushii/DBMS/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/devkhushii/DBMS/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/devkhushii/DBMS/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/devkhushii/DBMS/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devkhushii/DBMS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devkhushii/DBMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/devkhushii/DBMS/tree/master/0219-contains-duplicate-ii) |
@@ -109,6 +111,7 @@
 | ------- |
 | [0018-4sum](https://github.com/devkhushii/DBMS/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/devkhushii/DBMS/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/devkhushii/DBMS/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/devkhushii/DBMS/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/devkhushii/DBMS/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/devkhushii/DBMS/tree/master/0414-third-maximum-number) |
