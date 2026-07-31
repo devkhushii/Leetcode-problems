@@ -42,6 +42,7 @@
 | [0647-palindromic-substrings](https://github.com/devkhushii/DBMS/tree/master/0647-palindromic-substrings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devkhushii/DBMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devkhushii/DBMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devkhushii/DBMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/devkhushii/DBMS/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/devkhushii/DBMS/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/devkhushii/DBMS/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -105,6 +106,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/devkhushii/DBMS/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devkhushii/DBMS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devkhushii/DBMS/tree/master/0560-subarray-sum-equals-k) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devkhushii/DBMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/devkhushii/DBMS/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
 |  |
@@ -117,6 +119,7 @@
 | [0414-third-maximum-number](https://github.com/devkhushii/DBMS/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devkhushii/DBMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devkhushii/DBMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devkhushii/DBMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/devkhushii/DBMS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/devkhushii/DBMS/tree/master/3536-maximum-product-of-two-digits) |
 ## Trie
@@ -244,6 +247,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devkhushii/DBMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2439-minimize-maximum-of-array](https://github.com/devkhushii/DBMS/tree/master/2439-minimize-maximum-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devkhushii/DBMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devkhushii/DBMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -294,6 +298,7 @@
 | [0229-majority-element-ii](https://github.com/devkhushii/DBMS/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/devkhushii/DBMS/tree/master/0347-top-k-frequent-elements) |
 | [1603-design-parking-system](https://github.com/devkhushii/DBMS/tree/master/1603-design-parking-system) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devkhushii/DBMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/devkhushii/DBMS/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Bucket Sort
 |  |
