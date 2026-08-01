@@ -73,6 +73,7 @@
 | [0347-top-k-frequent-elements](https://github.com/devkhushii/DBMS/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/devkhushii/DBMS/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devkhushii/DBMS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0486-predict-the-winner](https://github.com/devkhushii/DBMS/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/devkhushii/DBMS/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devkhushii/DBMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/devkhushii/DBMS/tree/master/0643-maximum-average-subarray-i) |
@@ -185,6 +186,7 @@
 | [0042-trapping-rain-water](https://github.com/devkhushii/DBMS/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/devkhushii/DBMS/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/devkhushii/DBMS/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/devkhushii/DBMS/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/devkhushii/DBMS/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/devkhushii/DBMS/tree/master/0918-maximum-sum-circular-subarray) |
 | [2439-minimize-maximum-of-array](https://github.com/devkhushii/DBMS/tree/master/2439-minimize-maximum-of-array) |
@@ -259,6 +261,7 @@
 | [0070-climbing-stairs](https://github.com/devkhushii/DBMS/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/devkhushii/DBMS/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/devkhushii/DBMS/tree/master/0202-happy-number) |
+| [0486-predict-the-winner](https://github.com/devkhushii/DBMS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devkhushii/DBMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devkhushii/DBMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devkhushii/DBMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -281,6 +284,7 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/devkhushii/DBMS/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/devkhushii/DBMS/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/devkhushii/DBMS/tree/master/0486-predict-the-winner) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -338,4 +342,8 @@
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/devkhushii/DBMS/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/devkhushii/DBMS/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
