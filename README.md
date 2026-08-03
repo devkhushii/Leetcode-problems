@@ -41,6 +41,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/devkhushii/DBMS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/devkhushii/DBMS/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/devkhushii/DBMS/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/devkhushii/DBMS/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/devkhushii/DBMS/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/devkhushii/DBMS/tree/master/0647-palindromic-substrings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devkhushii/DBMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -274,6 +275,7 @@
 | [0070-climbing-stairs](https://github.com/devkhushii/DBMS/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/devkhushii/DBMS/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/devkhushii/DBMS/tree/master/0202-happy-number) |
+| [0415-add-strings](https://github.com/devkhushii/DBMS/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/devkhushii/DBMS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devkhushii/DBMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/devkhushii/DBMS/tree/master/0877-stone-game) |
@@ -310,6 +312,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/devkhushii/DBMS/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/devkhushii/DBMS/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/devkhushii/DBMS/tree/master/1260-shift-2d-grid) |
 | [1603-design-parking-system](https://github.com/devkhushii/DBMS/tree/master/1603-design-parking-system) |
 ## Counting
