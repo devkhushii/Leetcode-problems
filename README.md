@@ -38,6 +38,7 @@
 | [0076-minimum-window-substring](https://github.com/devkhushii/DBMS/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/devkhushii/DBMS/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/devkhushii/DBMS/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/devkhushii/DBMS/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/devkhushii/DBMS/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/devkhushii/DBMS/tree/master/0647-palindromic-substrings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devkhushii/DBMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -106,6 +107,7 @@
 | [0219-contains-duplicate-ii](https://github.com/devkhushii/DBMS/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/devkhushii/DBMS/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/devkhushii/DBMS/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/devkhushii/DBMS/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/devkhushii/DBMS/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devkhushii/DBMS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devkhushii/DBMS/tree/master/0560-subarray-sum-equals-k) |
@@ -119,6 +121,7 @@
 | [0075-sort-colors](https://github.com/devkhushii/DBMS/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/devkhushii/DBMS/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/devkhushii/DBMS/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/devkhushii/DBMS/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/devkhushii/DBMS/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devkhushii/DBMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devkhushii/DBMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -283,6 +286,7 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/devkhushii/DBMS/tree/master/0089-gray-code) |
+| [0389-find-the-difference](https://github.com/devkhushii/DBMS/tree/master/0389-find-the-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/devkhushii/DBMS/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/devkhushii/DBMS/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Recursion
