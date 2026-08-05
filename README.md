@@ -248,6 +248,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/devkhushii/DBMS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/devkhushii/DBMS/tree/master/0098-validate-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/devkhushii/DBMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [3310-remove-methods-from-project](https://github.com/devkhushii/DBMS/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -259,6 +260,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/devkhushii/DBMS/tree/master/0102-binary-tree-level-order-traversal) |
+| [3310-remove-methods-from-project](https://github.com/devkhushii/DBMS/tree/master/3310-remove-methods-from-project) |
 ## Greedy
 |  |
 | ------- |
@@ -379,4 +381,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/devkhushii/DBMS/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/devkhushii/DBMS/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
