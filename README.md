@@ -94,6 +94,7 @@
 | [1406-stone-game-iii](https://github.com/devkhushii/DBMS/tree/master/1406-stone-game-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/devkhushii/DBMS/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devkhushii/DBMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1572-matrix-diagonal-sum](https://github.com/devkhushii/DBMS/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/devkhushii/DBMS/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devkhushii/DBMS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devkhushii/DBMS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -356,6 +357,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/devkhushii/DBMS/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/devkhushii/DBMS/tree/master/1260-shift-2d-grid) |
+| [1572-matrix-diagonal-sum](https://github.com/devkhushii/DBMS/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/devkhushii/DBMS/tree/master/1672-richest-customer-wealth) |
 ## Memoization
 |  |
