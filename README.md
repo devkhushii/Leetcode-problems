@@ -82,6 +82,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devkhushii/DBMS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/devkhushii/DBMS/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/devkhushii/DBMS/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/devkhushii/DBMS/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devkhushii/DBMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/devkhushii/DBMS/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/devkhushii/DBMS/tree/master/0704-binary-search) |
@@ -334,6 +335,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/devkhushii/DBMS/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/devkhushii/DBMS/tree/master/0415-add-strings) |
+| [0566-reshape-the-matrix](https://github.com/devkhushii/DBMS/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/devkhushii/DBMS/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/devkhushii/DBMS/tree/master/1260-shift-2d-grid) |
 | [1603-design-parking-system](https://github.com/devkhushii/DBMS/tree/master/1603-design-parking-system) |
@@ -358,6 +360,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/devkhushii/DBMS/tree/master/0054-spiral-matrix) |
+| [0566-reshape-the-matrix](https://github.com/devkhushii/DBMS/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/devkhushii/DBMS/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/devkhushii/DBMS/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/devkhushii/DBMS/tree/master/1572-matrix-diagonal-sum) |
