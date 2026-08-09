@@ -89,6 +89,7 @@
 | [0877-stone-game](https://github.com/devkhushii/DBMS/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/devkhushii/DBMS/tree/master/0918-maximum-sum-circular-subarray) |
 | [1109-corporate-flight-bookings](https://github.com/devkhushii/DBMS/tree/master/1109-corporate-flight-bookings) |
+| [1140-stone-game-ii](https://github.com/devkhushii/DBMS/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/devkhushii/DBMS/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/devkhushii/DBMS/tree/master/1406-stone-game-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/devkhushii/DBMS/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -150,6 +151,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/devkhushii/DBMS/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/devkhushii/DBMS/tree/master/0724-find-pivot-index) |
 | [1109-corporate-flight-bookings](https://github.com/devkhushii/DBMS/tree/master/1109-corporate-flight-bookings) |
+| [1140-stone-game-ii](https://github.com/devkhushii/DBMS/tree/master/1140-stone-game-ii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/devkhushii/DBMS/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [2439-minimize-maximum-of-array](https://github.com/devkhushii/DBMS/tree/master/2439-minimize-maximum-of-array) |
 ## Linked List
@@ -207,6 +209,7 @@
 | [0647-palindromic-substrings](https://github.com/devkhushii/DBMS/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/devkhushii/DBMS/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/devkhushii/DBMS/tree/master/0918-maximum-sum-circular-subarray) |
+| [1140-stone-game-ii](https://github.com/devkhushii/DBMS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/devkhushii/DBMS/tree/master/1406-stone-game-iii) |
 | [2439-minimize-maximum-of-array](https://github.com/devkhushii/DBMS/tree/master/2439-minimize-maximum-of-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/devkhushii/DBMS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -290,6 +293,7 @@
 | [0486-predict-the-winner](https://github.com/devkhushii/DBMS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devkhushii/DBMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/devkhushii/DBMS/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/devkhushii/DBMS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/devkhushii/DBMS/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devkhushii/DBMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devkhushii/DBMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -383,14 +387,17 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/devkhushii/DBMS/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/devkhushii/DBMS/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/devkhushii/DBMS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/devkhushii/DBMS/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/devkhushii/DBMS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/devkhushii/DBMS/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/devkhushii/DBMS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/devkhushii/DBMS/tree/master/1406-stone-game-iii) |
 ## Graph Theory
 |  |
