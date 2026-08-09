@@ -1,33 +1,31 @@
 class Solution:
     def tictactoe(self, moves: list[list[int]]) -> str:
 
-        rows = [0] * 3
-        cols = [0] * 3
+        board = [[' ' for _ in range(3)] for _ in range(3)]
 
-        diag = 0
-        anti = 0
-
+        # Build the board
         for i, (r, c) in enumerate(moves):
+            board[r][c] = 'X' if i % 2 == 0 else 'O'
 
-            value = 1 if i % 2 == 0 else -1
+        # Check rows
+        for i in range(3):
+            if board[i][0] == board[i][1] == board[i][2] != ' ':
+                return 'A' if board[i][0] == 'X' else 'B'
 
-            rows[r] += value
-            cols[c] += value
+        # Check columns
+        for j in range(3):
+            if board[0][j] == board[1][j] == board[2][j] != ' ':
+                return 'A' if board[0][j] == 'X' else 'B'
 
-            if r == c:
-                diag += value
+        # Main diagonal
+        if board[0][0] == board[1][1] == board[2][2] != ' ':
+            return 'A' if board[0][0] == 'X' else 'B'
 
-            if r + c == 2:
-                anti += value
+        # Anti-diagonal
+        if board[0][2] == board[1][1] == board[2][0] != ' ':
+            return 'A' if board[0][2] == 'X' else 'B'
 
-            if (
-                abs(rows[r]) == 3
-                or abs(cols[c]) == 3
-                or abs(diag) == 3
-                or abs(anti) == 3
-            ):
-                return 'A' if value == 1 else 'B'
-
+        # No winner
         if len(moves) == 9:
             return 'Draw'
 
