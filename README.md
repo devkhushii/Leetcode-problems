@@ -72,6 +72,7 @@
 | [0075-sort-colors](https://github.com/devkhushii/DBMS/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devkhushii/DBMS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devkhushii/DBMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/devkhushii/DBMS/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devkhushii/DBMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/devkhushii/DBMS/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/devkhushii/DBMS/tree/master/0228-summary-ranges) |
@@ -287,6 +288,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/devkhushii/DBMS/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/devkhushii/DBMS/tree/master/0409-longest-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devkhushii/DBMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2439-minimize-maximum-of-array](https://github.com/devkhushii/DBMS/tree/master/2439-minimize-maximum-of-array) |
