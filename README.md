@@ -71,6 +71,7 @@
 | [0066-plus-one](https://github.com/devkhushii/DBMS/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/devkhushii/DBMS/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devkhushii/DBMS/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/devkhushii/DBMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devkhushii/DBMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/devkhushii/DBMS/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/devkhushii/DBMS/tree/master/0228-summary-ranges) |
@@ -218,6 +219,7 @@
 | [0042-trapping-rain-water](https://github.com/devkhushii/DBMS/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/devkhushii/DBMS/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/devkhushii/DBMS/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/devkhushii/DBMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/devkhushii/DBMS/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/devkhushii/DBMS/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/devkhushii/DBMS/tree/master/0877-stone-game) |
