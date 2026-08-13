@@ -46,6 +46,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/devkhushii/DBMS/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/devkhushii/DBMS/tree/master/0647-palindromic-substrings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devkhushii/DBMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/devkhushii/DBMS/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devkhushii/DBMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devkhushii/DBMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/devkhushii/DBMS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -104,6 +105,7 @@
 | [1672-richest-customer-wealth](https://github.com/devkhushii/DBMS/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devkhushii/DBMS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devkhushii/DBMS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/devkhushii/DBMS/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2439-minimize-maximum-of-array](https://github.com/devkhushii/DBMS/tree/master/2439-minimize-maximum-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devkhushii/DBMS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devkhushii/DBMS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -401,6 +403,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/devkhushii/DBMS/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/devkhushii/DBMS/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Counting Sort
 |  |
@@ -442,4 +445,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/devkhushii/DBMS/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/devkhushii/DBMS/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
