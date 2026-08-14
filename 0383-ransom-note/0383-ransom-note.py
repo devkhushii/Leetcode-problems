@@ -1,18 +1,11 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        m={}
-        for ch in magazine:
-            m[ch]=m.get(ch,0)+1
-        
-        for ch in ransomNote:
-            if ch in m:
-                m[ch]-=1
-            else:
+        ransom_letters = set(ransomNote)
+
+        for letter in ransom_letters:
+            if magazine.count(letter) < ransomNote.count(letter):
                 return False
         
-        for key,val in m.items():
-            if val<0:
-                return False
         return True
 
 
