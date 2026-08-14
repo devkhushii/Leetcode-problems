@@ -42,6 +42,7 @@
 | [0076-minimum-window-substring](https://github.com/devkhushii/DBMS/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/devkhushii/DBMS/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/devkhushii/DBMS/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/devkhushii/DBMS/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/devkhushii/DBMS/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/devkhushii/DBMS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/devkhushii/DBMS/tree/master/0387-first-unique-character-in-a-string) |
@@ -132,6 +133,7 @@
 | [0205-isomorphic-strings](https://github.com/devkhushii/DBMS/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/devkhushii/DBMS/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/devkhushii/DBMS/tree/master/0229-majority-element-ii) |
+| [0290-word-pattern](https://github.com/devkhushii/DBMS/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/devkhushii/DBMS/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/devkhushii/DBMS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/devkhushii/DBMS/tree/master/0387-first-unique-character-in-a-string) |
