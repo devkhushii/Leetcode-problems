@@ -27,6 +27,7 @@
 | [0202-happy-number](https://github.com/devkhushii/DBMS/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/devkhushii/DBMS/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/devkhushii/DBMS/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/devkhushii/DBMS/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/devkhushii/DBMS/tree/master/0647-palindromic-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/devkhushii/DBMS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
@@ -50,6 +51,7 @@
 | [0409-longest-palindrome](https://github.com/devkhushii/DBMS/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/devkhushii/DBMS/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/devkhushii/DBMS/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/devkhushii/DBMS/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/devkhushii/DBMS/tree/master/0647-palindromic-substrings) |
 | [0890-find-and-replace-pattern](https://github.com/devkhushii/DBMS/tree/master/0890-find-and-replace-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devkhushii/DBMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
