@@ -43,6 +43,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/devkhushii/DBMS/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/devkhushii/DBMS/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/devkhushii/DBMS/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/devkhushii/DBMS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/devkhushii/DBMS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/devkhushii/DBMS/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/devkhushii/DBMS/tree/master/0409-longest-palindrome) |
@@ -132,6 +133,7 @@
 | [0219-contains-duplicate-ii](https://github.com/devkhushii/DBMS/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/devkhushii/DBMS/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/devkhushii/DBMS/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/devkhushii/DBMS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/devkhushii/DBMS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/devkhushii/DBMS/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/devkhushii/DBMS/tree/master/0409-longest-palindrome) |
@@ -369,6 +371,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/devkhushii/DBMS/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/devkhushii/DBMS/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/devkhushii/DBMS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/devkhushii/DBMS/tree/master/0387-first-unique-character-in-a-string) |
 | [1603-design-parking-system](https://github.com/devkhushii/DBMS/tree/master/1603-design-parking-system) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devkhushii/DBMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
