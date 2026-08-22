@@ -17,6 +17,8 @@ class Solution:
                     lps[i]=0
                     i+=1
             return lps
+
+            
         rev=s[::-1]
         combine=s+"#"+rev
         lps=lps_compute(combine)  
