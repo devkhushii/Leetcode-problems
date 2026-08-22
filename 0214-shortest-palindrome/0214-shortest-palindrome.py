@@ -1,13 +1,6 @@
 class Solution:
     def shortestPalindrome(self, s: str) -> str:
         n=len(s)
-        # if n%2==0:
-        #     left=(n//2)-1
-        #     right=n//2
-        # else:
-        #     left=(n//2)-1
-        #     right=(n//2)+1
-        # st=[]
         def lps_compute(pattern):
             m=len(pattern)
             lps=[0]*m
