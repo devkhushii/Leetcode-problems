@@ -29,6 +29,7 @@
 | [0344-reverse-string](https://github.com/devkhushii/DBMS/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/devkhushii/DBMS/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/devkhushii/DBMS/tree/master/0647-palindromic-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/devkhushii/DBMS/tree/master/0876-middle-of-the-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/devkhushii/DBMS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
@@ -206,6 +207,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/devkhushii/DBMS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/devkhushii/DBMS/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/devkhushii/DBMS/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/devkhushii/DBMS/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
