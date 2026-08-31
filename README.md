@@ -89,6 +89,7 @@
 | [0066-plus-one](https://github.com/devkhushii/DBMS/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/devkhushii/DBMS/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devkhushii/DBMS/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/devkhushii/DBMS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devkhushii/DBMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/devkhushii/DBMS/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devkhushii/DBMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -237,6 +238,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/devkhushii/DBMS/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/devkhushii/DBMS/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/devkhushii/DBMS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/devkhushii/DBMS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/devkhushii/DBMS/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/devkhushii/DBMS/tree/master/0234-palindrome-linked-list) |
@@ -401,6 +403,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devkhushii/DBMS/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/devkhushii/DBMS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/devkhushii/DBMS/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devkhushii/DBMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
@@ -552,4 +555,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/devkhushii/DBMS/tree/master/0023-merge-k-sorted-lists) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/devkhushii/DBMS/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
