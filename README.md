@@ -90,6 +90,7 @@
 | [0075-sort-colors](https://github.com/devkhushii/DBMS/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devkhushii/DBMS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devkhushii/DBMS/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/devkhushii/DBMS/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devkhushii/DBMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/devkhushii/DBMS/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devkhushii/DBMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -240,6 +241,7 @@
 | [0032-longest-valid-parentheses](https://github.com/devkhushii/DBMS/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/devkhushii/DBMS/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devkhushii/DBMS/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/devkhushii/DBMS/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/devkhushii/DBMS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/devkhushii/DBMS/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/devkhushii/DBMS/tree/master/0234-palindrome-linked-list) |
@@ -271,6 +273,7 @@
 | [0042-trapping-rain-water](https://github.com/devkhushii/DBMS/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/devkhushii/DBMS/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/devkhushii/DBMS/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/devkhushii/DBMS/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devkhushii/DBMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/devkhushii/DBMS/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/devkhushii/DBMS/tree/master/0647-palindromic-substrings) |
@@ -406,6 +409,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devkhushii/DBMS/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devkhushii/DBMS/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/devkhushii/DBMS/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/devkhushii/DBMS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devkhushii/DBMS/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devkhushii/DBMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -442,6 +446,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/devkhushii/DBMS/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/devkhushii/DBMS/tree/master/0085-maximal-rectangle) |
 | [0566-reshape-the-matrix](https://github.com/devkhushii/DBMS/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/devkhushii/DBMS/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/devkhushii/DBMS/tree/master/1260-shift-2d-grid) |
