@@ -103,6 +103,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devkhushii/DBMS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/devkhushii/DBMS/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/devkhushii/DBMS/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/devkhushii/DBMS/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/devkhushii/DBMS/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/devkhushii/DBMS/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devkhushii/DBMS/tree/master/0628-maximum-product-of-three-numbers) |
@@ -243,6 +244,7 @@
 | [0225-implement-stack-using-queues](https://github.com/devkhushii/DBMS/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/devkhushii/DBMS/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/devkhushii/DBMS/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/devkhushii/DBMS/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devkhushii/DBMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Queue
 |  |
@@ -405,6 +407,7 @@
 | [0042-trapping-rain-water](https://github.com/devkhushii/DBMS/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devkhushii/DBMS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/devkhushii/DBMS/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/devkhushii/DBMS/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devkhushii/DBMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
