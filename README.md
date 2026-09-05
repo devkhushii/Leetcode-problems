@@ -140,6 +140,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/devkhushii/DBMS/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/devkhushii/DBMS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/devkhushii/DBMS/tree/master/3731-find-missing-elements) |
+| [3904-smallest-stable-index-ii](https://github.com/devkhushii/Leetcode-problems/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -208,6 +209,7 @@
 | [1140-stone-game-ii](https://github.com/devkhushii/DBMS/tree/master/1140-stone-game-ii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/devkhushii/DBMS/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [2439-minimize-maximum-of-array](https://github.com/devkhushii/DBMS/tree/master/2439-minimize-maximum-of-array) |
+| [3904-smallest-stable-index-ii](https://github.com/devkhushii/Leetcode-problems/tree/master/3904-smallest-stable-index-ii) |
 ## Linked List
 |  |
 | ------- |
