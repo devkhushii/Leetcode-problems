@@ -132,6 +132,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devkhushii/DBMS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devkhushii/DBMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/devkhushii/DBMS/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/devkhushii/DBMS/tree/master/2104-sum-of-subarray-ranges) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/devkhushii/DBMS/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2439-minimize-maximum-of-array](https://github.com/devkhushii/DBMS/tree/master/2439-minimize-maximum-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devkhushii/DBMS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -254,6 +255,7 @@
 | [0496-next-greater-element-i](https://github.com/devkhushii/DBMS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devkhushii/DBMS/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devkhushii/DBMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2104-sum-of-subarray-ranges](https://github.com/devkhushii/DBMS/tree/master/2104-sum-of-subarray-ranges) |
 ## Queue
 |  |
 | ------- |
@@ -423,6 +425,7 @@
 | [0496-next-greater-element-i](https://github.com/devkhushii/DBMS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devkhushii/DBMS/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devkhushii/DBMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2104-sum-of-subarray-ranges](https://github.com/devkhushii/DBMS/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |
