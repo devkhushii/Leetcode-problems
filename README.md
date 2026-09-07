@@ -60,6 +60,7 @@
 | [0443-string-compression](https://github.com/devkhushii/DBMS/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/devkhushii/DBMS/tree/master/0647-palindromic-substrings) |
 | [0890-find-and-replace-pattern](https://github.com/devkhushii/DBMS/tree/master/0890-find-and-replace-pattern) |
+| [0940-distinct-subsequences-ii](https://github.com/devkhushii/Leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devkhushii/DBMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/devkhushii/DBMS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/devkhushii/DBMS/tree/master/1927-sum-game) |
@@ -283,6 +284,7 @@
 | [0647-palindromic-substrings](https://github.com/devkhushii/DBMS/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/devkhushii/DBMS/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/devkhushii/DBMS/tree/master/0918-maximum-sum-circular-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/devkhushii/Leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/devkhushii/DBMS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/devkhushii/DBMS/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/devkhushii/DBMS/tree/master/1510-stone-game-iv) |
