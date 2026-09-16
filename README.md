@@ -217,6 +217,7 @@
 | [1109-corporate-flight-bookings](https://github.com/devkhushii/DBMS/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/devkhushii/DBMS/tree/master/1140-stone-game-ii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/devkhushii/DBMS/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/devkhushii/Leetcode-problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2439-minimize-maximum-of-array](https://github.com/devkhushii/DBMS/tree/master/2439-minimize-maximum-of-array) |
 | [3904-smallest-stable-index-ii](https://github.com/devkhushii/Leetcode-problems/tree/master/3904-smallest-stable-index-ii) |
 ## Linked List
@@ -297,6 +298,7 @@
 | [1140-stone-game-ii](https://github.com/devkhushii/DBMS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/devkhushii/DBMS/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/devkhushii/DBMS/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/devkhushii/Leetcode-problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2439-minimize-maximum-of-array](https://github.com/devkhushii/DBMS/tree/master/2439-minimize-maximum-of-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/devkhushii/DBMS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/devkhushii/Leetcode-problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -396,6 +398,7 @@
 | [1140-stone-game-ii](https://github.com/devkhushii/DBMS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/devkhushii/DBMS/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/devkhushii/DBMS/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/devkhushii/Leetcode-problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/devkhushii/DBMS/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devkhushii/DBMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devkhushii/DBMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -510,6 +513,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/devkhushii/Leetcode-problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/devkhushii/DBMS/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Game Theory
 |  |
