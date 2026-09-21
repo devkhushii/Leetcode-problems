@@ -251,6 +251,7 @@
 | [0146-lru-cache](https://github.com/devkhushii/DBMS/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/devkhushii/DBMS/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/devkhushii/DBMS/tree/master/0303-range-sum-query-immutable) |
+| [0933-number-of-recent-calls](https://github.com/devkhushii/Leetcode-problems/tree/master/0933-number-of-recent-calls) |
 | [1603-design-parking-system](https://github.com/devkhushii/DBMS/tree/master/1603-design-parking-system) |
 ## Doubly-Linked List
 |  |
@@ -278,6 +279,7 @@
 | [0239-sliding-window-maximum](https://github.com/devkhushii/DBMS/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/devkhushii/DBMS/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/devkhushii/DBMS/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/devkhushii/Leetcode-problems/tree/master/0933-number-of-recent-calls) |
 ## Sliding Window
 |  |
 | ------- |
@@ -624,4 +626,8 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/devkhushii/DBMS/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/devkhushii/Leetcode-problems/tree/master/1401-circle-and-rectangle-overlapping) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/devkhushii/Leetcode-problems/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
