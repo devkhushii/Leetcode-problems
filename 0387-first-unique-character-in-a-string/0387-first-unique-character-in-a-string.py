@@ -1,13 +1,12 @@
 class Solution:
-        def firstUniqChar(self, s: str) -> int:
-            freq = {}
+    def firstUniqChar(self, s: str) -> int:
+        count = {}
 
-            for ch in s:
-                freq[ch] = freq.get(ch, 0) + 1
+        for ch in s:
+            count[ch] = count.get(ch, 0) + 1
 
-            for i, ch in enumerate(s):
-                if freq[ch] == 1:
-                    return i
+        for i in range(len(s)):
+            if count[s[i]] == 1:
+                return i
 
-            return -1
-        
+        return -1
