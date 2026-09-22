@@ -95,6 +95,7 @@
 | [0054-spiral-matrix](https://github.com/devkhushii/DBMS/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/devkhushii/DBMS/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/devkhushii/DBMS/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/devkhushii/DBMS/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devkhushii/DBMS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devkhushii/DBMS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/devkhushii/DBMS/tree/master/0085-maximal-rectangle) |
@@ -436,11 +437,13 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/devkhushii/DBMS/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/devkhushii/DBMS/tree/master/0089-gray-code) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/devkhushii/DBMS/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/devkhushii/DBMS/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/devkhushii/DBMS/tree/master/0089-gray-code) |
 | [0389-find-the-difference](https://github.com/devkhushii/DBMS/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/devkhushii/DBMS/tree/master/1386-cinema-seat-allocation) |
