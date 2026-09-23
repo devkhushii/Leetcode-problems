@@ -4,21 +4,19 @@ class Solution:
             result.append(current.copy())
             return
         
-        for i in range(len(nums)):
-            if  not used[i]:
-                if i > 0 and nums[i] == nums[i-1] and not used[i-1]:
-                        continue
-                current.append(nums[i])
-                used[i]=True
+        for num in nums:
+            if num not in used:
+                current.append(num)
+                used.add(num)
                 self.permutation(nums,current,used,result)
 
                 current.pop()
-                used[i]=False
+                used.remove(num)
 
     def permute(self, nums: list[int]) -> list[list[int]]:
         current=[]
         result=[]
-        used=[False] * len(nums)
+        used=set()
         self.permutation(nums, current, used, result)
         return result
         
