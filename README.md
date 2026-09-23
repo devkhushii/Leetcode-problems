@@ -91,6 +91,7 @@
 | [0039-combination-sum](https://github.com/devkhushii/DBMS/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/devkhushii/DBMS/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/devkhushii/DBMS/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/devkhushii/DBMS/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/devkhushii/DBMS/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/devkhushii/DBMS/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/devkhushii/DBMS/tree/master/0054-spiral-matrix) |
@@ -445,6 +446,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/devkhushii/DBMS/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/devkhushii/DBMS/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/devkhushii/DBMS/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/devkhushii/DBMS/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/devkhushii/DBMS/tree/master/0090-subsets-ii) |
