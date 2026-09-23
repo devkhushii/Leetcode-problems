@@ -2,6 +2,7 @@ class Solution:
     def permutation(self,nums, current, used, result):
         if len(current)==len(nums):
             result.append(current.copy())
+            return
         
         for num in nums:
             if num not in used:
