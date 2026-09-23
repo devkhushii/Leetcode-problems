@@ -1,25 +1,27 @@
 class Solution:
-    def backtrack(self, nums, start, ans, sub):
-        sub.append(ans.copy())
-
-        for i in range(start, len(nums)):
-
-            if i > start and nums[i] == nums[i - 1]:
-                continue
-
-            ans.append(nums[i])
-
-            self.backtrack(nums, i + 1, ans, sub)
-
-            ans.pop()
-
     def subsetsWithDup(self, nums: list[int]) -> list[list[int]]:
         nums.sort()
+        result = []
+        current = []
 
-        sub = []
-        ans = []
+        def backtrack(start):
+            result.append(current.copy())
 
-        self.backtrack(nums, 0, ans, sub)
+            for i in range(start, len(nums)):
 
-        return sub
+                # Skip duplicate at the same level
+                if i > start and nums[i] == nums[i - 1]:
+                    continue
+
+                # TAKE
+                current.append(nums[i])
+
+                backtrack(i + 1)
+
+                # UNDO
+                current.pop()
+
+        backtrack(0)
+
+        return result
         
