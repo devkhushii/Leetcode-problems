@@ -97,6 +97,7 @@
 | [0046-permutations](https://github.com/devkhushii/DBMS/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/devkhushii/DBMS/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/devkhushii/DBMS/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/devkhushii/DBMS/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/devkhushii/DBMS/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/devkhushii/DBMS/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/devkhushii/DBMS/tree/master/0066-plus-one) |
@@ -462,6 +463,7 @@
 | [0040-combination-sum-ii](https://github.com/devkhushii/DBMS/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/devkhushii/DBMS/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/devkhushii/DBMS/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/devkhushii/DBMS/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/devkhushii/DBMS/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/devkhushii/DBMS/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/devkhushii/DBMS/tree/master/0090-subsets-ii) |
@@ -664,4 +666,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/devkhushii/Leetcode-problems/tree/master/0933-number-of-recent-calls) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/devkhushii/DBMS/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
