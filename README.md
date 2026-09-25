@@ -90,6 +90,7 @@
 | [0018-4sum](https://github.com/devkhushii/DBMS/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/devkhushii/DBMS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devkhushii/DBMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/devkhushii/DBMS/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/devkhushii/DBMS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/devkhushii/DBMS/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/devkhushii/DBMS/tree/master/0041-first-missing-positive) |
@@ -171,6 +172,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/devkhushii/DBMS/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devkhushii/DBMS/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/devkhushii/DBMS/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/devkhushii/DBMS/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/devkhushii/DBMS/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/devkhushii/DBMS/tree/master/0076-minimum-window-substring) |
@@ -459,6 +461,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devkhushii/DBMS/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/devkhushii/DBMS/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/devkhushii/DBMS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/devkhushii/DBMS/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/devkhushii/DBMS/tree/master/0046-permutations) |
@@ -532,6 +535,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/devkhushii/DBMS/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/devkhushii/DBMS/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/devkhushii/DBMS/tree/master/0085-maximal-rectangle) |
 | [0566-reshape-the-matrix](https://github.com/devkhushii/DBMS/tree/master/0566-reshape-the-matrix) |
@@ -670,6 +674,11 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/devkhushii/DBMS/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/devkhushii/DBMS/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/devkhushii/DBMS/tree/master/0052-n-queens-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/devkhushii/DBMS/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
