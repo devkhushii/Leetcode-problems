@@ -1,17 +1,22 @@
 class Solution:
     def solveNQueens(self, n: int) -> list[list[str]]:
-        board= [['.'] * n for _ in range(n)]
-        ans=[]
-        def isSafe(board,row,col,n):
 
+        board = [['.'] * n for _ in range(n)]
+        ans = []
+
+        def isSafe(board, row, col, n):
+
+            # Check same row
             for j in range(n):
-                if board[row][j]=='Q':
+                if board[row][j] == 'Q':
                     return False
-                
+
+            # Check same column
             for i in range(n):
-                if board[i][col]=='Q':
+                if board[i][col] == 'Q':
                     return False
-            
+
+            # Check upper-left diagonal
             i = row - 1
             j = col - 1
 
@@ -21,6 +26,7 @@ class Solution:
                 i -= 1
                 j -= 1
 
+            # Check upper-right diagonal
             i = row - 1
             j = col + 1
 
@@ -29,18 +35,28 @@ class Solution:
                     return False
                 i -= 1
                 j += 1
+
             return True
 
-        def nQueens(board,row,n,ans):
-            if row==n:
+        def nQueens(board, row, n, ans):
+
+            if row == n:
                 ans.append([''.join(row) for row in board])
                 return
-            
+
             for j in range(n):
-                if isSafe(board,row,j,n):
-                    board[row][j]='Q'
-                    nQueens(board,row+1,n,ans)
-                    board[row][j]='.'
-        
-        nQueens(board,0,n,ans)
+
+                if isSafe(board, row, j, n):
+
+                    # Choose
+                    board[row][j] = 'Q'
+
+                    # Explore
+                    nQueens(board, row + 1, n, ans)
+
+                    # Undo
+                    board[row][j] = '.'
+
+        nQueens(board, 0, n, ans)
+
         return ans
