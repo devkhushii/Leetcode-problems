@@ -473,6 +473,7 @@
 | [0047-permutations-ii](https://github.com/devkhushii/DBMS/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/devkhushii/DBMS/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/devkhushii/DBMS/tree/master/0052-n-queens-ii) |
+| [0077-combinations](https://github.com/devkhushii/DBMS/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/devkhushii/DBMS/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/devkhushii/DBMS/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/devkhushii/DBMS/tree/master/0090-subsets-ii) |
