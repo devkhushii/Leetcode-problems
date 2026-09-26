@@ -42,6 +42,7 @@
 | [0008-string-to-integer-atoi](https://github.com/devkhushii/DBMS/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/devkhushii/DBMS/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devkhushii/DBMS/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/devkhushii/DBMS/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devkhushii/DBMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/devkhushii/DBMS/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/devkhushii/DBMS/tree/master/0038-count-and-say) |
@@ -323,6 +324,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/devkhushii/DBMS/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/devkhushii/DBMS/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/devkhushii/DBMS/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/devkhushii/DBMS/tree/master/0053-maximum-subarray) |
@@ -469,6 +471,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devkhushii/DBMS/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/devkhushii/DBMS/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/devkhushii/DBMS/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/devkhushii/DBMS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/devkhushii/DBMS/tree/master/0040-combination-sum-ii) |
@@ -693,4 +696,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/devkhushii/DBMS/tree/master/0037-sudoku-solver) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/devkhushii/DBMS/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
