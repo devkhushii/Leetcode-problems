@@ -48,6 +48,7 @@
 | [0049-group-anagrams](https://github.com/devkhushii/DBMS/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/devkhushii/DBMS/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/devkhushii/Leetcode-problems/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/devkhushii/DBMS/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/devkhushii/DBMS/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/devkhushii/DBMS/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/devkhushii/DBMS/tree/master/0214-shortest-palindrome) |
@@ -327,6 +328,7 @@
 | [0085-maximal-rectangle](https://github.com/devkhushii/DBMS/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/devkhushii/Leetcode-problems/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devkhushii/DBMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/devkhushii/DBMS/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/devkhushii/DBMS/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/devkhushii/DBMS/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/devkhushii/DBMS/tree/master/0877-stone-game) |
@@ -474,6 +476,7 @@
 | [0078-subsets](https://github.com/devkhushii/DBMS/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/devkhushii/DBMS/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/devkhushii/DBMS/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/devkhushii/DBMS/tree/master/0131-palindrome-partitioning) |
 | [1096-brace-expansion-ii](https://github.com/devkhushii/DBMS/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/devkhushii/DBMS/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
