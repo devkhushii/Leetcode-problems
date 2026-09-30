@@ -296,6 +296,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/devkhushii/DBMS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/devkhushii/DBMS/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/devkhushii/DBMS/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/devkhushii/DBMS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/devkhushii/DBMS/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/devkhushii/DBMS/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/devkhushii/DBMS/tree/master/0402-remove-k-digits) |
@@ -397,6 +398,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/devkhushii/DBMS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/devkhushii/DBMS/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/devkhushii/DBMS/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/devkhushii/DBMS/tree/master/0144-binary-tree-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/devkhushii/DBMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devkhushii/Leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -405,6 +407,7 @@
 | [0079-word-search](https://github.com/devkhushii/DBMS/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/devkhushii/DBMS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/devkhushii/DBMS/tree/master/0098-validate-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/devkhushii/DBMS/tree/master/0144-binary-tree-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/devkhushii/DBMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devkhushii/Leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/devkhushii/DBMS/tree/master/3310-remove-methods-from-project) |
@@ -414,6 +417,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/devkhushii/DBMS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/devkhushii/DBMS/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/devkhushii/DBMS/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/devkhushii/DBMS/tree/master/0144-binary-tree-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/devkhushii/DBMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devkhushii/Leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
