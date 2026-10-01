@@ -406,6 +406,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/devkhushii/DBMS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devkhushii/DBMS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/devkhushii/DBMS/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/devkhushii/DBMS/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/devkhushii/DBMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devkhushii/Leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -419,6 +420,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/devkhushii/DBMS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devkhushii/DBMS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/devkhushii/DBMS/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/devkhushii/DBMS/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/devkhushii/DBMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devkhushii/Leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/devkhushii/DBMS/tree/master/3310-remove-methods-from-project) |
@@ -433,6 +435,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/devkhushii/DBMS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devkhushii/DBMS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/devkhushii/DBMS/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/devkhushii/DBMS/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/devkhushii/DBMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devkhushii/Leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -736,4 +739,8 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devkhushii/DBMS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devkhushii/DBMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/devkhushii/DBMS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/devkhushii/DBMS/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
