@@ -400,6 +400,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/devkhushii/DBMS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/devkhushii/DBMS/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/devkhushii/DBMS/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/devkhushii/DBMS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/devkhushii/DBMS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devkhushii/DBMS/tree/master/0144-binary-tree-preorder-traversal) |
@@ -412,6 +413,7 @@
 | [0079-word-search](https://github.com/devkhushii/DBMS/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/devkhushii/DBMS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/devkhushii/DBMS/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/devkhushii/DBMS/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/devkhushii/DBMS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devkhushii/DBMS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devkhushii/DBMS/tree/master/0145-binary-tree-postorder-traversal) |
@@ -423,6 +425,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/devkhushii/DBMS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/devkhushii/DBMS/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/devkhushii/DBMS/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/devkhushii/DBMS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/devkhushii/DBMS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devkhushii/DBMS/tree/master/0144-binary-tree-preorder-traversal) |
@@ -432,6 +435,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/devkhushii/DBMS/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/devkhushii/DBMS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/devkhushii/DBMS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/devkhushii/DBMS/tree/master/1096-brace-expansion-ii) |
