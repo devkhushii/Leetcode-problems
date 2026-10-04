@@ -66,6 +66,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/devkhushii/DBMS/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/devkhushii/DBMS/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/devkhushii/DBMS/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/devkhushii/DBMS/tree/master/0678-valid-parenthesis-string) |
 | [0890-find-and-replace-pattern](https://github.com/devkhushii/DBMS/tree/master/0890-find-and-replace-pattern) |
 | [0940-distinct-subsequences-ii](https://github.com/devkhushii/Leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devkhushii/DBMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -307,6 +308,7 @@
 | [0402-remove-k-digits](https://github.com/devkhushii/DBMS/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/devkhushii/DBMS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devkhushii/DBMS/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/devkhushii/DBMS/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devkhushii/DBMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/devkhushii/DBMS/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/devkhushii/DBMS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -348,6 +350,7 @@
 | [0131-palindrome-partitioning](https://github.com/devkhushii/DBMS/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/devkhushii/DBMS/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/devkhushii/DBMS/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/devkhushii/DBMS/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/devkhushii/DBMS/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/devkhushii/DBMS/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/devkhushii/Leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
@@ -479,6 +482,7 @@
 | [0134-gas-station](https://github.com/devkhushii/DBMS/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/devkhushii/DBMS/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/devkhushii/DBMS/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/devkhushii/DBMS/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devkhushii/DBMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/devkhushii/DBMS/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devkhushii/Leetcode-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -763,6 +767,7 @@
 | [0020-valid-parentheses](https://github.com/devkhushii/DBMS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/devkhushii/DBMS/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/devkhushii/DBMS/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/devkhushii/DBMS/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/devkhushii/DBMS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devkhushii/DBMS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devkhushii/DBMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
