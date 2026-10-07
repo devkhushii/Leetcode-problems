@@ -56,6 +56,7 @@
 | [0205-isomorphic-strings](https://github.com/devkhushii/DBMS/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/devkhushii/DBMS/tree/master/0214-shortest-palindrome) |
 | [0290-word-pattern](https://github.com/devkhushii/DBMS/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/devkhushii/DBMS/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/devkhushii/DBMS/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/devkhushii/DBMS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/devkhushii/DBMS/tree/master/0387-first-unique-character-in-a-string) |
@@ -478,6 +479,7 @@
 | [0112-path-sum](https://github.com/devkhushii/DBMS/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/devkhushii/DBMS/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/devkhushii/DBMS/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/devkhushii/DBMS/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/devkhushii/DBMS/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/devkhushii/DBMS/tree/master/3310-remove-methods-from-project) |
 ## Greedy
@@ -554,6 +556,7 @@
 | [0089-gray-code](https://github.com/devkhushii/DBMS/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/devkhushii/DBMS/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/devkhushii/DBMS/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/devkhushii/DBMS/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/devkhushii/DBMS/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/devkhushii/DBMS/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
