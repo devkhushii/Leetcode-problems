@@ -426,6 +426,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devkhushii/DBMS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/devkhushii/DBMS/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/devkhushii/DBMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/devkhushii/DBMS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devkhushii/Leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -446,6 +447,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devkhushii/DBMS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/devkhushii/DBMS/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/devkhushii/DBMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/devkhushii/DBMS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devkhushii/Leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/devkhushii/DBMS/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -468,6 +470,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devkhushii/DBMS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/devkhushii/DBMS/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/devkhushii/DBMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/devkhushii/DBMS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devkhushii/Leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -506,6 +509,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/devkhushii/DBMS/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/devkhushii/DBMS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/devkhushii/DBMS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Math
 |  |
 | ------- |
