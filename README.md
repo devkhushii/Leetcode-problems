@@ -68,6 +68,7 @@
 | [0443-string-compression](https://github.com/devkhushii/DBMS/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/devkhushii/DBMS/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/devkhushii/DBMS/tree/master/0678-valid-parenthesis-string) |
+| [0692-top-k-frequent-words](https://github.com/devkhushii/DBMS/tree/master/0692-top-k-frequent-words) |
 | [0856-score-of-parentheses](https://github.com/devkhushii/DBMS/tree/master/0856-score-of-parentheses) |
 | [0890-find-and-replace-pattern](https://github.com/devkhushii/DBMS/tree/master/0890-find-and-replace-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/devkhushii/DBMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -142,6 +143,7 @@
 | [0566-reshape-the-matrix](https://github.com/devkhushii/DBMS/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devkhushii/DBMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/devkhushii/DBMS/tree/master/0643-maximum-average-subarray-i) |
+| [0692-top-k-frequent-words](https://github.com/devkhushii/DBMS/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/devkhushii/DBMS/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/devkhushii/DBMS/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/devkhushii/Leetcode-problems/tree/master/0835-image-overlap) |
@@ -212,6 +214,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devkhushii/DBMS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/devkhushii/DBMS/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/devkhushii/DBMS/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/devkhushii/DBMS/tree/master/0692-top-k-frequent-words) |
 | [0890-find-and-replace-pattern](https://github.com/devkhushii/DBMS/tree/master/0890-find-and-replace-pattern) |
 | [1096-brace-expansion-ii](https://github.com/devkhushii/DBMS/tree/master/1096-brace-expansion-ii) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/devkhushii/DBMS/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -244,6 +247,7 @@
 | [0389-find-the-difference](https://github.com/devkhushii/DBMS/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/devkhushii/DBMS/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devkhushii/DBMS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0692-top-k-frequent-words](https://github.com/devkhushii/DBMS/tree/master/0692-top-k-frequent-words) |
 | [1096-brace-expansion-ii](https://github.com/devkhushii/DBMS/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devkhushii/DBMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devkhushii/Leetcode-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -257,6 +261,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devkhushii/DBMS/tree/master/0014-longest-common-prefix) |
+| [0692-top-k-frequent-words](https://github.com/devkhushii/DBMS/tree/master/0692-top-k-frequent-words) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -382,6 +387,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/devkhushii/DBMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/devkhushii/DBMS/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/devkhushii/DBMS/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/devkhushii/DBMS/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devkhushii/DBMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
 |  |
@@ -621,6 +627,7 @@
 | [0347-top-k-frequent-elements](https://github.com/devkhushii/DBMS/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/devkhushii/DBMS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/devkhushii/DBMS/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/devkhushii/DBMS/tree/master/0692-top-k-frequent-words) |
 | [1603-design-parking-system](https://github.com/devkhushii/DBMS/tree/master/1603-design-parking-system) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devkhushii/DBMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/devkhushii/DBMS/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -628,6 +635,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/devkhushii/DBMS/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/devkhushii/DBMS/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
