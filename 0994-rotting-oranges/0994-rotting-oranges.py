@@ -8,7 +8,7 @@ class Solution:
             for j in range(m):
                 if grid[i][j] == 2:
                     sources.append((i,j,0))  
-                    vis[i][j]=True
+                    # vis[i][j]=True
        
         ans=0
         
