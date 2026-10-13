@@ -128,6 +128,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devkhushii/DBMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/devkhushii/DBMS/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devkhushii/DBMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/devkhushii/DBMS/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devkhushii/DBMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/devkhushii/DBMS/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/devkhushii/DBMS/tree/master/0228-summary-ranges) |
@@ -477,6 +478,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/devkhushii/DBMS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devkhushii/DBMS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/devkhushii/DBMS/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/devkhushii/DBMS/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/devkhushii/DBMS/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/devkhushii/DBMS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devkhushii/DBMS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -517,6 +519,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/devkhushii/DBMS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/devkhushii/DBMS/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/devkhushii/DBMS/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/devkhushii/DBMS/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/devkhushii/DBMS/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/devkhushii/DBMS/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/devkhushii/DBMS/tree/master/1096-brace-expansion-ii) |
@@ -676,6 +679,7 @@
 | [0054-spiral-matrix](https://github.com/devkhushii/DBMS/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/devkhushii/DBMS/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/devkhushii/DBMS/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/devkhushii/DBMS/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/devkhushii/DBMS/tree/master/0566-reshape-the-matrix) |
 | [0835-image-overlap](https://github.com/devkhushii/Leetcode-problems/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/devkhushii/DBMS/tree/master/0867-transpose-matrix) |
@@ -851,4 +855,8 @@
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/devkhushii/DBMS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devkhushii/DBMS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/devkhushii/DBMS/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
