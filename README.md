@@ -141,6 +141,7 @@
 | [0486-predict-the-winner](https://github.com/devkhushii/DBMS/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/devkhushii/DBMS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devkhushii/DBMS/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/devkhushii/DBMS/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/devkhushii/DBMS/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/devkhushii/DBMS/tree/master/0566-reshape-the-matrix) |
 | [0621-task-scheduler](https://github.com/devkhushii/DBMS/tree/master/0621-task-scheduler) |
@@ -383,6 +384,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/devkhushii/DBMS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/devkhushii/DBMS/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/devkhushii/DBMS/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/devkhushii/DBMS/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/devkhushii/DBMS/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/devkhushii/DBMS/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/devkhushii/DBMS/tree/master/0877-stone-game) |
@@ -525,6 +527,7 @@
 | [0200-number-of-islands](https://github.com/devkhushii/DBMS/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/devkhushii/DBMS/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/devkhushii/DBMS/tree/master/0301-remove-invalid-parentheses) |
+| [0542-01-matrix](https://github.com/devkhushii/DBMS/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/devkhushii/DBMS/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/devkhushii/DBMS/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/devkhushii/DBMS/tree/master/1096-brace-expansion-ii) |
@@ -685,6 +688,7 @@
 | [0079-word-search](https://github.com/devkhushii/DBMS/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/devkhushii/DBMS/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/devkhushii/DBMS/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/devkhushii/DBMS/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/devkhushii/DBMS/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/devkhushii/DBMS/tree/master/0695-max-area-of-island) |
 | [0835-image-overlap](https://github.com/devkhushii/Leetcode-problems/tree/master/0835-image-overlap) |
