@@ -1,29 +1,35 @@
 
 class Solution:
     def minCostConnectPoints(self, points: list[list[int]]) -> int:
-        n = len(points)
-        dist = [float('inf')] * n
-        visited = [False] * n
+        
+        n=len(points)
+        graph = [[] for _ in range(n)]
+        for i in range(len(points)):
+            min_dis=float('inf')
+            xi=points[i][0]
+            yi=points[i][1]
+            for j in range(i+1,len(points)):
+                xj=points[j][0]
+                yj=points[j][1]
+                dist = abs(xi - xj) + abs(yi - yj)
+                graph[i].append((j,dist))
+                graph[j].append((i,dist))
 
-        dist[0] = 0
-        cost = 0
+        visited = set([0])
+        pq = [(w, 0, v) for v, w in graph[0]]
+        heapq.heapify(pq)
+        mst_weight = 0
+        mst_edges = []
 
-        for _ in range(n):
-            node = -1
+        while pq and len(visited) < n:
+            w, u, v = heapq.heappop(pq)
+            if v in visited:
+                continue                    # would form a cycle within the tree
+            visited.add(v)
+            mst_weight += w
+            mst_edges.append((u, v, w))
+            for neighbor, weight in graph[v]:
+                if neighbor not in visited:
+                    heapq.heappush(pq, (weight, v, neighbor))
 
-            # Pick the nearest unvisited point
-            for i in range(n):
-                if not visited[i] and (node == -1 or dist[i] < dist[node]):
-                    node = i
-
-            visited[node] = True
-            cost += dist[node]
-
-            # Update distances to unvisited points
-            for i in range(n):
-                if not visited[i]:
-                    new_dist = (abs(points[node][0] - points[i][0])
-                                + abs(points[node][1] - points[i][1]))
-                    dist[i] = min(dist[i], new_dist)
-
-        return cost
+        return mst_weight
