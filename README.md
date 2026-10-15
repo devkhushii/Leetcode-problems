@@ -391,6 +391,7 @@
 | [0542-01-matrix](https://github.com/devkhushii/DBMS/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/devkhushii/DBMS/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/devkhushii/DBMS/tree/master/0678-valid-parenthesis-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/devkhushii/DBMS/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/devkhushii/DBMS/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/devkhushii/DBMS/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/devkhushii/Leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
@@ -416,6 +417,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/devkhushii/DBMS/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/devkhushii/DBMS/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/devkhushii/DBMS/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/devkhushii/DBMS/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devkhushii/DBMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/devkhushii/DBMS/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Queue
@@ -498,6 +500,7 @@
 | [0695-max-area-of-island](https://github.com/devkhushii/DBMS/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/devkhushii/DBMS/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/devkhushii/DBMS/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/devkhushii/DBMS/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/devkhushii/DBMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/devkhushii/DBMS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devkhushii/Leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -544,6 +547,7 @@
 | [0695-max-area-of-island](https://github.com/devkhushii/DBMS/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/devkhushii/DBMS/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/devkhushii/DBMS/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/devkhushii/DBMS/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/devkhushii/DBMS/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/devkhushii/DBMS/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/devkhushii/DBMS/tree/master/3310-remove-methods-from-project) |
@@ -779,6 +783,7 @@
 | [0210-course-schedule-ii](https://github.com/devkhushii/DBMS/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/devkhushii/DBMS/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/devkhushii/DBMS/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/devkhushii/DBMS/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/devkhushii/DBMS/tree/master/1584-min-cost-to-connect-all-points) |
 | [3310-remove-methods-from-project](https://github.com/devkhushii/DBMS/tree/master/3310-remove-methods-from-project) |
 ## Nim Game
@@ -910,6 +915,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/devkhushii/DBMS/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/devkhushii/DBMS/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
