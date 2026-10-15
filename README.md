@@ -493,6 +493,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/devkhushii/DBMS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devkhushii/DBMS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/devkhushii/DBMS/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/devkhushii/DBMS/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/devkhushii/DBMS/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/devkhushii/DBMS/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/devkhushii/DBMS/tree/master/0743-network-delay-time) |
@@ -538,6 +539,7 @@
 | [0226-invert-binary-tree](https://github.com/devkhushii/DBMS/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/devkhushii/DBMS/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/devkhushii/DBMS/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/devkhushii/DBMS/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/devkhushii/DBMS/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/devkhushii/DBMS/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/devkhushii/DBMS/tree/master/0743-network-delay-time) |
@@ -774,6 +776,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/devkhushii/DBMS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/devkhushii/DBMS/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/devkhushii/DBMS/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/devkhushii/DBMS/tree/master/0743-network-delay-time) |
 | [3310-remove-methods-from-project](https://github.com/devkhushii/DBMS/tree/master/3310-remove-methods-from-project) |
 ## Nim Game
@@ -889,6 +892,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/devkhushii/DBMS/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/devkhushii/DBMS/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/devkhushii/DBMS/tree/master/0695-max-area-of-island) |
 ## Topological Sort
 |  |
