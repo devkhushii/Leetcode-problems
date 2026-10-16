@@ -505,6 +505,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/devkhushii/DBMS/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/devkhushii/DBMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/devkhushii/DBMS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1192-critical-connections-in-a-network](https://github.com/devkhushii/DBMS/tree/master/1192-critical-connections-in-a-network) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devkhushii/Leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/devkhushii/DBMS/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -787,6 +788,7 @@
 | [0547-number-of-provinces](https://github.com/devkhushii/DBMS/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/devkhushii/DBMS/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/devkhushii/DBMS/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1192-critical-connections-in-a-network](https://github.com/devkhushii/DBMS/tree/master/1192-critical-connections-in-a-network) |
 | [1584-min-cost-to-connect-all-points](https://github.com/devkhushii/DBMS/tree/master/1584-min-cost-to-connect-all-points) |
 | [3310-remove-methods-from-project](https://github.com/devkhushii/DBMS/tree/master/3310-remove-methods-from-project) |
 ## Nim Game
@@ -944,4 +946,12 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/devkhushii/DBMS/tree/master/1584-min-cost-to-connect-all-points) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/devkhushii/DBMS/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/devkhushii/DBMS/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
