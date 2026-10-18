@@ -169,6 +169,7 @@
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/devkhushii/DBMS/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devkhushii/DBMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devkhushii/Leetcode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devkhushii/DBMS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/devkhushii/DBMS/tree/master/1572-matrix-diagonal-sum) |
 | [1584-min-cost-to-connect-all-points](https://github.com/devkhushii/DBMS/tree/master/1584-min-cost-to-connect-all-points) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devkhushii/DBMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -401,6 +402,7 @@
 | [1406-stone-game-iii](https://github.com/devkhushii/DBMS/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devkhushii/Leetcode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/devkhushii/DBMS/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devkhushii/DBMS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/devkhushii/Leetcode-problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/devkhushii/DBMS/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/devkhushii/DBMS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -454,6 +456,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/devkhushii/DBMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/devkhushii/DBMS/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/devkhushii/DBMS/tree/master/0918-maximum-sum-circular-subarray) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devkhushii/DBMS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Tree
 |  |
 | ------- |
@@ -476,6 +479,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/devkhushii/DBMS/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/devkhushii/DBMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/devkhushii/DBMS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devkhushii/DBMS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devkhushii/Leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -531,6 +535,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/devkhushii/DBMS/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/devkhushii/DBMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/devkhushii/DBMS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devkhushii/DBMS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devkhushii/Leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -587,6 +592,7 @@
 | [0098-validate-binary-search-tree](https://github.com/devkhushii/DBMS/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/devkhushii/DBMS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/devkhushii/DBMS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devkhushii/DBMS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Math
 |  |
 | ------- |
@@ -603,6 +609,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/devkhushii/Leetcode-problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/devkhushii/DBMS/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/devkhushii/DBMS/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devkhushii/DBMS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/devkhushii/Leetcode-problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/devkhushii/DBMS/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devkhushii/DBMS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -730,6 +737,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/devkhushii/DBMS/tree/master/0070-climbing-stairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devkhushii/DBMS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Number Theory
 |  |
 | ------- |
@@ -758,6 +766,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devkhushii/DBMS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/devkhushii/Leetcode-problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/devkhushii/DBMS/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Game Theory
@@ -908,6 +917,7 @@
 | [0200-number-of-islands](https://github.com/devkhushii/DBMS/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/devkhushii/DBMS/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/devkhushii/DBMS/tree/master/0695-max-area-of-island) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devkhushii/DBMS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/devkhushii/DBMS/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
@@ -959,4 +969,8 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/devkhushii/DBMS/tree/master/1192-critical-connections-in-a-network) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devkhushii/DBMS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
