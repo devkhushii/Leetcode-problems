@@ -402,6 +402,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devkhushii/Leetcode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/devkhushii/DBMS/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/devkhushii/Leetcode-problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/devkhushii/DBMS/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/devkhushii/DBMS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2439-minimize-maximum-of-array](https://github.com/devkhushii/DBMS/tree/master/2439-minimize-maximum-of-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/devkhushii/Leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -790,6 +791,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/devkhushii/DBMS/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1192-critical-connections-in-a-network](https://github.com/devkhushii/DBMS/tree/master/1192-critical-connections-in-a-network) |
 | [1584-min-cost-to-connect-all-points](https://github.com/devkhushii/DBMS/tree/master/1584-min-cost-to-connect-all-points) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/devkhushii/DBMS/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3310-remove-methods-from-project](https://github.com/devkhushii/DBMS/tree/master/3310-remove-methods-from-project) |
 ## Nim Game
 |  |
@@ -912,6 +914,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/devkhushii/DBMS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/devkhushii/DBMS/tree/master/0210-course-schedule-ii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/devkhushii/DBMS/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -921,10 +924,12 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/devkhushii/DBMS/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/devkhushii/DBMS/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/devkhushii/DBMS/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/devkhushii/DBMS/tree/master/0743-network-delay-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/devkhushii/DBMS/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Binary Indexed Tree
 |  |
 | ------- |
