@@ -153,6 +153,7 @@
 | [0704-binary-search](https://github.com/devkhushii/DBMS/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/devkhushii/DBMS/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/devkhushii/DBMS/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/devkhushii/DBMS/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/devkhushii/Leetcode-problems/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/devkhushii/DBMS/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/devkhushii/DBMS/tree/master/0877-stone-game) |
@@ -399,6 +400,7 @@
 | [0542-01-matrix](https://github.com/devkhushii/DBMS/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/devkhushii/DBMS/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/devkhushii/DBMS/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/devkhushii/DBMS/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/devkhushii/DBMS/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/devkhushii/DBMS/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/devkhushii/DBMS/tree/master/0918-maximum-sum-circular-subarray) |
