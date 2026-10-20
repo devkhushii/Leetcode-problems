@@ -130,6 +130,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devkhushii/DBMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/devkhushii/DBMS/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/devkhushii/DBMS/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/devkhushii/DBMS/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devkhushii/DBMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/devkhushii/DBMS/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/devkhushii/DBMS/tree/master/0228-summary-ranges) |
@@ -400,6 +401,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/devkhushii/DBMS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/devkhushii/DBMS/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/devkhushii/DBMS/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/devkhushii/DBMS/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/devkhushii/DBMS/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/devkhushii/DBMS/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/devkhushii/DBMS/tree/master/0647-palindromic-substrings) |
