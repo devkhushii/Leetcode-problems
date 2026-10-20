@@ -205,6 +205,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/devkhushii/DBMS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/devkhushii/DBMS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/devkhushii/DBMS/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/devkhushii/DBMS/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/devkhushii/Leetcode-problems/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
@@ -288,6 +289,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/devkhushii/DBMS/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/devkhushii/DBMS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/devkhushii/DBMS/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/devkhushii/DBMS/tree/master/3886-sum-of-sortable-integers) |
 ## Trie
 |  |
 | ------- |
@@ -635,6 +637,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/devkhushii/DBMS/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/devkhushii/Leetcode-problems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/devkhushii/Leetcode-problems/tree/master/3871-count-commas-in-range-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/devkhushii/DBMS/tree/master/3886-sum-of-sortable-integers) |
 ## Backtracking
 |  |
 | ------- |
@@ -759,6 +762,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/devkhushii/DBMS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/devkhushii/DBMS/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/devkhushii/DBMS/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/devkhushii/DBMS/tree/master/3886-sum-of-sortable-integers) |
 ## Segment Tree
 |  |
 | ------- |
