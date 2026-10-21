@@ -138,6 +138,7 @@
 | [0229-majority-element-ii](https://github.com/devkhushii/DBMS/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/devkhushii/DBMS/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/devkhushii/DBMS/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/devkhushii/DBMS/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/devkhushii/DBMS/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/devkhushii/DBMS/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devkhushii/DBMS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -403,6 +404,7 @@
 | [0131-palindrome-partitioning](https://github.com/devkhushii/DBMS/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/devkhushii/DBMS/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/devkhushii/DBMS/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/devkhushii/DBMS/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/devkhushii/DBMS/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/devkhushii/DBMS/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/devkhushii/DBMS/tree/master/0647-palindromic-substrings) |
@@ -566,6 +568,7 @@
 | [0210-course-schedule-ii](https://github.com/devkhushii/DBMS/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/devkhushii/DBMS/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/devkhushii/DBMS/tree/master/0301-remove-invalid-parentheses) |
+| [0322-coin-change](https://github.com/devkhushii/DBMS/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/devkhushii/DBMS/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/devkhushii/DBMS/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/devkhushii/DBMS/tree/master/0695-max-area-of-island) |
@@ -990,4 +993,12 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devkhushii/DBMS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/devkhushii/DBMS/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/devkhushii/DBMS/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
