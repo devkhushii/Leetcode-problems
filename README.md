@@ -143,6 +143,7 @@
 | [0414-third-maximum-number](https://github.com/devkhushii/DBMS/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devkhushii/DBMS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/devkhushii/DBMS/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/devkhushii/DBMS/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/devkhushii/DBMS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devkhushii/DBMS/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/devkhushii/DBMS/tree/master/0518-coin-change-ii) |
@@ -408,6 +409,7 @@
 | [0213-house-robber-ii](https://github.com/devkhushii/DBMS/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/devkhushii/DBMS/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/devkhushii/DBMS/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/devkhushii/DBMS/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/devkhushii/DBMS/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/devkhushii/DBMS/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/devkhushii/DBMS/tree/master/0647-palindromic-substrings) |
@@ -669,6 +671,7 @@
 | [0090-subsets-ii](https://github.com/devkhushii/DBMS/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/devkhushii/DBMS/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/devkhushii/DBMS/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/devkhushii/DBMS/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/devkhushii/DBMS/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/devkhushii/DBMS/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
@@ -1002,10 +1005,15 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/devkhushii/DBMS/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/devkhushii/DBMS/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/devkhushii/DBMS/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/devkhushii/DBMS/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/devkhushii/DBMS/tree/master/0518-coin-change-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/devkhushii/DBMS/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
