@@ -145,6 +145,7 @@
 | [0486-predict-the-winner](https://github.com/devkhushii/DBMS/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/devkhushii/DBMS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devkhushii/DBMS/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/devkhushii/DBMS/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/devkhushii/DBMS/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/devkhushii/DBMS/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/devkhushii/DBMS/tree/master/0566-reshape-the-matrix) |
@@ -407,6 +408,7 @@
 | [0213-house-robber-ii](https://github.com/devkhushii/DBMS/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/devkhushii/DBMS/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/devkhushii/DBMS/tree/master/0486-predict-the-winner) |
+| [0518-coin-change-ii](https://github.com/devkhushii/DBMS/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/devkhushii/DBMS/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/devkhushii/DBMS/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/devkhushii/DBMS/tree/master/0678-valid-parenthesis-string) |
@@ -1000,8 +1002,10 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/devkhushii/DBMS/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/devkhushii/DBMS/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/devkhushii/DBMS/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/devkhushii/DBMS/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
