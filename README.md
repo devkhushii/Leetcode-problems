@@ -85,6 +85,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/devkhushii/DBMS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/devkhushii/DBMS/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/devkhushii/DBMS/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/devkhushii/DBMS/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/devkhushii/Leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devkhushii/DBMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devkhushii/DBMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -639,6 +640,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/devkhushii/Leetcode-problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/devkhushii/DBMS/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devkhushii/DBMS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/devkhushii/DBMS/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devkhushii/DBMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/devkhushii/DBMS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/devkhushii/DBMS/tree/master/3348-smallest-divisible-digit-product-ii) |
