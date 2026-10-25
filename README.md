@@ -169,6 +169,7 @@
 | [0994-rotting-oranges](https://github.com/devkhushii/DBMS/tree/master/0994-rotting-oranges) |
 | [1109-corporate-flight-bookings](https://github.com/devkhushii/DBMS/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/devkhushii/DBMS/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/devkhushii/DBMS/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/devkhushii/DBMS/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/devkhushii/DBMS/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/devkhushii/DBMS/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -536,6 +537,7 @@
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/devkhushii/DBMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/devkhushii/DBMS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/devkhushii/DBMS/tree/master/1192-critical-connections-in-a-network) |
+| [1254-number-of-closed-islands](https://github.com/devkhushii/DBMS/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devkhushii/Leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/devkhushii/DBMS/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -585,6 +587,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/devkhushii/DBMS/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/devkhushii/DBMS/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/devkhushii/DBMS/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/devkhushii/DBMS/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/devkhushii/DBMS/tree/master/3310-remove-methods-from-project) |
 ## Greedy
 |  |
@@ -758,6 +761,7 @@
 | [0835-image-overlap](https://github.com/devkhushii/Leetcode-problems/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/devkhushii/DBMS/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/devkhushii/DBMS/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/devkhushii/DBMS/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/devkhushii/DBMS/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/devkhushii/DBMS/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/devkhushii/DBMS/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -950,6 +954,7 @@
 | [0200-number-of-islands](https://github.com/devkhushii/DBMS/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/devkhushii/DBMS/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/devkhushii/DBMS/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/devkhushii/DBMS/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devkhushii/DBMS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/devkhushii/DBMS/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
